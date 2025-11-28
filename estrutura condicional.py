@@ -1,7 +1,7 @@
 lista = ["Ana", "Bruno", "Carlos", "Diana", "Eva"]
 
 print(lista)
-nome = input("Digite um nome ds lista: ")
+nome = input("Digite um nome da lista: ")
 if nome == "Ana":
     print("Ola Ana!")
 elif nome == "Bruno":
